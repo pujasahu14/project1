@@ -5,7 +5,8 @@
 // Bank class
 // Defining the banking transaction
 class Bank {
- 
+
+/
     // Initial balance $100
     int total = 100;
  
